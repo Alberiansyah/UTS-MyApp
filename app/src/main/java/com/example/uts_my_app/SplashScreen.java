@@ -1,5 +1,11 @@
 package com.example.uts_my_app;
 
+/**
+ * NIM      : 10120068
+ * Nama     : Alberiansyah
+ * Kelas    : IF-2
+ */
+
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;

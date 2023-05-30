@@ -1,5 +1,11 @@
 package adapter;
 
+/**
+ * NIM      : 10120068
+ * Nama     : Alberiansyah
+ * Kelas    : IF-2
+ */
+
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;

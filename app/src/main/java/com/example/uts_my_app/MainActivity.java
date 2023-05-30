@@ -1,5 +1,11 @@
 package com.example.uts_my_app;
 
+/**
+ * NIM      : 10120068
+ * Nama     : Alberiansyah
+ * Kelas    : IF-2
+ */
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
